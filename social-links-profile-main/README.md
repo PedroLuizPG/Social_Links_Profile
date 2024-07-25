@@ -8,13 +8,11 @@ Esta é uma solução para o [Desafio de perfil de links sociais no Frontend Men
  - [O desafio](#o-desafio)
  - [Captura de tela](#captura de tela)
  - [Links](#links)
-- [Meu processo](#meu-processo)
  - [Construído com](#construído com)
  - [O que aprendi](#o que aprendi)
- - [Desenvolvimento contínuo](#desenvolvimento contínuo)
  - [Recursos úteis](#useful-resources)
 - [Autor](#autor)
-- [Agradecimentos](#agradecimentos)
+
 
 
 ## Visão geral
@@ -37,7 +35,6 @@ Os usuários devem ser capazes de:
 - URL da solução: (https://www.frontendmentor.io/solutions/responsive-page-using-flexbox-YDlYPWtLWu)
 - URL do site ativo: (https://social-links-profile-delta-eight.vercel.app/)
 
-## Meu processo
 
 ### Construído com
 
@@ -76,4 +73,4 @@ adiciona uma transição suave de 0.5 segundos para as propriedades background-c
 ## Autor
 
 - Mentor de Frontend - [@ PedroLuizPG](https://www.frontendmentor.io/profile/PedroLuizPG)
-- Instagram - [@@peuluiz_]((https://www.instagram.com/peuluiz_/))
+- Instagram - [@peuluiz_](https://www.instagram.com/peuluiz_/)
